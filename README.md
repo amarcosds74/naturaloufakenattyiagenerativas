@@ -1,5 +1,14 @@
 # naturaloufakenattyiagenerativas
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 📘 Sobre o Projeto
+O e-book **“Natural ou Fake Natty? Como Vencer na Era das IAs Generativas”** explora o impacto das IAs generativas no mercado de trabalho, na educação, na criatividade e no cotidiano. Ele discute como utilizar IA de forma ética, estratégica e produtiva.
+
+
+O projeto foi criado com apoio de:
+- **ChatGPT (OpenAI)** – criação de texto, roteiro e organização
+- **Ferramentas de geração de imagens (via IA)** – criação das capas
+- **GitHub** – versionamento e hos
 
 
 **Autor:** Antonio Marcos Dos Santos
