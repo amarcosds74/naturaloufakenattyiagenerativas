@@ -4,6 +4,7 @@
 # 📘 Sobre o Projeto
 O e-book **“Natural ou Fake Natty? Como Vencer na Era das IAs Generativas”** explora o impacto das IAs generativas no mercado de trabalho, na educação, na criatividade e no cotidiano. Ele discute como utilizar IA de forma ética, estratégica e produtiva.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7ca5b63b-d77e-44de-88fa-ddbe21d5d712" />
 
 O projeto foi criado com apoio de:
 - **ChatGPT (OpenAI)** – criação de texto, roteiro e organização
